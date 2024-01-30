@@ -6,11 +6,15 @@ file(GLOB_RECURSE SOURCES "*.cpp")
 if(APPLE)
     file(GLOB MkLIB "/usr/local/lib/libMkLIB.dylib")
 elseif(UNIX)
-    file(GLOB MkLIB "/usr/local/lib/libMkLIB.so")
+    # file(GLOB MkLIB "/usr/local/lib/libMkLIB.so")
 endif()
 
 add_compile_options( -gdwarf -g) # -Wall -Wextra -Wpedantic -Werror
 
 add_executable(${PROJECT_NAME} ${SOURCES})
 
-target_link_libraries(${PROJECT_NAME} ${MkLIB} )
+if(APPLE)
+    target_link_libraries(${PROJECT_NAME} ${MkLIB} ) 
+elseif(UNIX)
+    target_link_libraries(${PROJECT_NAME} MkLIB ) 
+endif()
