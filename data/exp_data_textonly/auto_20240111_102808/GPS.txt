@@ -1,0 +1,12 @@
+2024-01-11 10:28:12: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:16: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:20: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:24: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:28: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:32: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:37: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:41: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:45: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:49: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:54: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000
+2024-01-11 10:28:57: STS=0, altitude=0.000000, latitude=0.000000, longitude=0.000000, sensitivity=0.000000

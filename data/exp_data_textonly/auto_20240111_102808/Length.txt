@@ -1,0 +1,12 @@
+2024-01-11 10:28:12,Front:22132mm, Back:3931mm, Up:819mm, Left:1298mm, Right:872mm
+2024-01-11 10:28:16,Front:22139mm, Back:3932mm, Up:821mm, Left:1298mm, Right:872mm
+2024-01-11 10:28:20,Front:22091mm, Back:3931mm, Up:821mm, Left:1304mm, Right:873mm
+2024-01-11 10:28:24,Front:22140mm, Back:3930mm, Up:820mm, Left:1305mm, Right:871mm
+2024-01-11 10:28:28,Front:22141mm, Back:3930mm, Up:819mm, Left:1304mm, Right:873mm
+2024-01-11 10:28:32,Front:22098mm, Back:3930mm, Up:821mm, Left:1305mm, Right:871mm
+2024-01-11 10:28:37,Front:22140mm, Back:3929mm, Up:820mm, Left:1305mm, Right:871mm
+2024-01-11 10:28:41,Front:22141mm, Back:3928mm, Up:819mm, Left:1304mm, Right:870mm
+2024-01-11 10:28:45,Front:22141mm, Back:3931mm, Up:821mm, Left:1303mm, Right:870mm
+2024-01-11 10:28:49,Front:22144mm, Back:3929mm, Up:821mm, Left:1302mm, Right:870mm
+2024-01-11 10:28:54,Front:22140mm, Back:3931mm, Up:821mm, Left:1302mm, Right:870mm
+2024-01-11 10:28:57,Front:22134mm, Back:3929mm, Up:823mm, Left:1303mm, Right:870mm
